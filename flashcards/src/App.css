@@ -53,8 +53,6 @@ button,input { box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1p
   flex-direction: row;
   gap: .75vw;
 }
-
-
 input {
   color: rgb(36, 35, 42);
   font-size: 16px;
@@ -67,11 +65,4 @@ input {
   :focus{
       border: 2px solid rgb(124, 138, 255);
   } 
-  border-color: green;
 }
-#wrong {
-  border-color: rgb(219, 93, 93);
-}
-#right {
-  border-color: green;
-} 
